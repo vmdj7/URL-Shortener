@@ -65,24 +65,24 @@ README.md                   # Project documentation
    - Use the generated short URL to redirect to the original URL.
   
 
-## Screenshots
+## Screenshots  
 
-### Homepage
+### Homepage  
 The main page where you input the URL and optional custom name.  
+![Homepage](homepageURL.png)  
 
-
-### Short URL Result
+### Short URL Result  
 The result showing the shortened URL.  
+![Random Name URL](randomnameURL.png)  
 
+### Custom Short URL Result  
+The result showing the custom shortened URL.  
+![Custom Name URL](customnameURL.png)  
 
-### Custom Short URL Result
-The result showing the custom shortened URL.
+### Error Message  
+Message shown when you enter an invalid URL.  
+![Error Message](URLerror.png)  
 
-
-### Error Message
-Message shown when you enter an invalid URL.
-   
-   
 
 
 
