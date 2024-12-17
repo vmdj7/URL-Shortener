@@ -83,7 +83,8 @@ The result showing the custom shortened URL.
 Message shown when you enter an invalid URL.  
 ![Error Message](URLerror.png)  
 
-
+## Author
+Created by [Victor De Jesus](https://github.com/vmdj7)
 
 
 
